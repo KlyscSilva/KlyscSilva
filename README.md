@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Olá sou Matheus,  Dev Front End Jr, atualmente estou aprendendo e criando projetos com :
+Olá sou Matheus,  Dev Front End Jr. 
+
+Formado em Sistemas de Informações pela Unidom II :mortar_board:
+
+Atualmente estou aprendendo e criando projetos com :
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="img-logo">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="img-logocss">
