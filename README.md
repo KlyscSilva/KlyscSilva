@@ -15,7 +15,7 @@ Iniciando os estudos com a seguintes linguagens :
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-rt">
 
 
-Acompanhe abaixo as linguagem que mais utilizo nos projetos:
+Acompanhe abaixo as linguagens que mais utilizo nos projetos:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlyscSilva)](https://github.com/anuraghazra/github-readme-stats)
