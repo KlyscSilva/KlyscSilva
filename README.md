@@ -11,10 +11,9 @@ Atualmente estou aprendendo e criando projetos com :
 
 Iniciando os estudos com a seguintes linguagens : 
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="img-js">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-rt">
-
 <a href="https://github.com/KlyscSilva/javaScript2023"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="img-js"></a>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="img-rt">
 
 
 Acompanhe abaixo as linguagens que mais utilizo nos projetos:
